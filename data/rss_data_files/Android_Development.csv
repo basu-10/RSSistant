@@ -1,0 +1,29 @@
+Title,RSS Feed Url,Domain
+Android Developers,https://www.youtube.com/feeds/videos.xml?user=androiddevelopers,youtube.com
+Android Developers - Medium,https://medium.com/feed/androiddevelopers,medium.com
+Android Developers Backstage,http://feeds.feedburner.com/blogspot/androiddevelopersbackstage,androidbackstage.blogspot.com
+Android Developers Blog,http://feeds.feedburner.com/blogspot/hsDu,android-developers.googleblog.com
+Android in Instagram Engineering on Medium,https://instagram-engineering.com/feed/tagged/android,instagram-engineering.com
+Android in MindOrks on Medium,https://medium.com/feed/mindorks/tagged/android,medium.com
+Android in The Airbnb Tech Blog on Medium,https://medium.com/feed/airbnb-engineering/tagged/android,medium.com
+Dan Lew Codes,https://blog.danlew.net/rss/,blog.danlew.net
+Fragmented - The Software Podcast,https://feeds.simplecast.com/LpAGSLnY,fragmentedpodcast.com
+Handstand Sam,https://handstandsam.com/feed/,handstandsam.com
+Jake Wharton,https://jakewharton.com/atom.xml,jakewharton.com
+JetBrains News - JetBrains Blog,https://blog.jetbrains.com/blog/feed,blog.jetbrains.com
+Joe Birch,https://joebirch.co/feed,joebirch.co
+Kotlin,https://www.youtube.com/feeds/videos.xml?playlist_id=PLQ176FUIyIUa6SChjajjVc-LMzxWiz6dy,youtube.com
+Kt. Academy - Medium,https://blog.kotlin-academy.com/feed,blog.kotlin-academy.com
+OkKotlin,https://okkotlin.com/rss.xml,okkotlin.com
+ProAndroidDev - Medium,https://proandroiddev.com/feed,proandroiddev.com
+Public Object,https://publicobject.com/rss/,publicobject.com
+Saket Narayan,https://saket.me/feed/,saket.me
+Talking Kotlin,https://feeds.soundcloud.com/users/soundcloud:users:280353173/sounds.rss,talkingkotlin.com
+The Android Arsenal,https://feeds.feedburner.com/Android_Arsenal,android-arsenal.com
+Zac Sweers,https://www.zacsweers.dev/rss/,zacsweers.dev
+Zarah Dominguez,https://zarah.dev/feed.xml,zarah.dev
+chRyNaN Codes,https://chrynan.codes/rss/,chrynan.codes
+droidcon NYC,https://www.youtube.com/feeds/videos.xml?channel_id=UCSLXy31j2Z0sdDeeAX5JpPw,youtube.com
+droidcon SF,https://www.youtube.com/feeds/videos.xml?channel_id=UCKubKoe1CBw_-n_GXetEQbg,youtube.com
+goobar,https://goobar.io/feed,goobar.io
+zsmb.co,https://zsmb.co/index.xml,zsmb.co
